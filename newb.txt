@@ -1,2 +1,2 @@
-this is for merge
+this is for mer and this conglict
 git fetcgit taging this is merger
