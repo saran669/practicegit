@@ -1,2 +1,2 @@
 this is for merge
-git fetch
+git fetcgit tag
